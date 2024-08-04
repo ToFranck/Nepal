@@ -1,0 +1,45 @@
+.neumorphic {
+    /* display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 1rem 2rem;    
+    width: 98%;
+    position: fixed;
+    z-index: 100; */
+    position: fixed;
+    top: 50px;
+    right: 1rem;
+    z-index: 100;
+    /* background-color: red; */
+    
+
+    
+}
+
+.links {
+    margin: 1rem;
+    text-decoration: none;
+    color: #5c5c5c;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.activeLink {
+    color: #cca2ff;
+}
+
+.activeLink-move {
+    color: #cca2ff;
+}
+
+
+.activeLink {
+    color: #cca2ff;
+
+
+}
+
+.activeLink-move {
+    color: #cca2ff;
+    
+}

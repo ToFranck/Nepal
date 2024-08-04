@@ -1,23 +1,41 @@
-import logo from './logo.svg';
 import './App.css';
+import React, { useState, useEffect } from 'react';
 
 function App() {
+  // const [data, setData] = useState([]);
+
+  // useEffect(() => {
+  //   fetch('/data.json') 
+  //     .then(response => {
+  //       return response.json();
+  //     })
+  //     .then(data => setData(data))
+  //     .catch(error => console.error('Fetch error: ', error));
+  // }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* {data.albums && data.albums.map((album, index) => (
+        <div key={index}>
+          <h2>{album.title}</h2>
+          <p>{album.production}</p>
+          <p>{album.feats}</p>
+          <p>{album.info}</p> 
+        {album.songs && album.songs.map((song, index) => (
+          <div key={index}>
+            <h3>{song.title}</h3>
+            <p>{song.duration}</p>
+            <audio controls>
+              <source src={song.music} type="audio/mpeg" />
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+        ))}
+
+        </div>
+      ))} */}
+      
+      
     </div>
   );
 }

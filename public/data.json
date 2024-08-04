@@ -1,0 +1,455 @@
+{
+  "albums": [
+    {
+      "title": "Adios Bahamas",
+      "image": "https://444nuits.com/assets/img/adios.jpg",
+      "production": "Produit par Diabi, Epektase, Hugz Hefner, Jack Lean, Jerzeÿ, Louis Recasens, Sheldon, Zakko",
+      "feats": "Featurings: Sheldon, Nekfeu, Di-meh, 3010, Doums",
+      "info": "12 titres – 52min – Triple 4 Gear – 2020",
+      "link":"https://idol.lnk.to/Adios_Bahamas",
+      "songs": [
+        {
+          "title": "Opening",
+          "duration": "01:39",
+          "music": "https://cdn-preview-e.dzcdn.net/stream/c-e6354c2c165f774c1544f1c843decd68-5.mp3"
+          
+        },
+        {
+          "title": "Ennemis, Pt. 2",
+          "duration": "03:16",
+          "music": "https://cdn-preview-8.dzcdn.net/stream/c-82dade42ac0ef11aa2eaec271dee9af6-5.mp3"
+        },
+        {
+          "title": "En face",
+          "duration": "03:34",
+          "music": "https://cdn-preview-b.dzcdn.net/stream/c-b947362547fe4707b181c5c1af7b16f9-5.mp3"
+        },
+        {
+          "title": "Trajectoire",
+          "duration": "04:21",
+          "music": "https://cdn-preview-6.dzcdn.net/stream/c-61b1d13977b38db80c48aeb9b39d9138-5.mp3"
+        },
+        {
+          "title": "Vibe",
+          "duration": "03:48",
+          "music": "https://cdn-preview-2.dzcdn.net/stream/c-235047ed7c608907b654e2cb0b2ae0e1-5.mp3"
+        },
+        {
+          "title": "Lemonade",
+          "duration": "02:22",
+          "music": "https://cdn-preview-f.dzcdn.net/stream/c-fe4b9d27f5c96e3fcea20e2c6a7db883-5.mp3"
+        },
+        {
+          "title": "Là-bas",
+          "duration": "02:55",
+          "music": "https://cdn-preview-5.dzcdn.net/stream/c-50f8c294e05a277f40f0d812161e0d56-5.mp3"
+        },
+        {
+          "title": "Sundance",
+          "duration": "02:51",
+          "music": "https://cdn-preview-9.dzcdn.net/stream/c-9d5e3e744f48687938d5b3beecb04be4-5.mp3"
+        },
+        {
+          "title": "Millionaire",
+          "duration": "02:22",
+          "music": "https://cdn-preview-f.dzcdn.net/stream/c-f66b62d7701ec1c51bcb3a294dd2bebf-5.mp3"
+        },
+        {
+          "title": "Sans voir",
+          "duration": "03:58",
+          "music": "https://cdn-preview-b.dzcdn.net/stream/c-b0ec58baec7bd78b90f8fe3a6534f6fc-5.mp3"
+        },
+        {
+          "title": "Crossfader",
+          "duration": "03:17",
+          "music": "https://cdn-preview-c.dzcdn.net/stream/c-ce16d46539ce39565aedd074919f6ec4-5.mp3"
+        },
+        {
+          "title": "Daruma",
+          "duration": "03:48",
+          "music": "https://cdn-preview-1.dzcdn.net/stream/c-1876a4fade387cf869a3684dc1a149a7-5.mp3"
+        }
+      ]
+    },
+    {
+      "title": "KKSHISENSE8",
+      "image": "https://444nuits.com/assets/img/kkshi.jpg",
+      "production": "Produit par KLM, Stratega, Diabi, D. Treadwell",
+      "feats": "Featurings: Gracy Hopkins, Doums, Bohemian Club",
+      "info": "8 titres – 28min – 75e Session  – 2018",
+      "link":"https://444nuits.com/kkshisense8.html",
+      "songs": [
+        {
+          "title": "Omotesandō",
+          "duration": "03:08",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/01 Omotesando.mp3"
+        },
+        {
+          "title": "Evisu",
+          "duration": "04:03",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/02 Evisu.mp3"
+        },
+        {
+          "title": "Babylone", 
+          "duration": "03:27",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/03 Babylone.mp3"
+        },
+        {
+          "title": "150CC ft. Gracy Hopkins", 
+          "duration": "03:33",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/04 150CC ft. Gracy Hopkins.mp3"
+        },
+        {
+          "title": "City Lights ft. Doums", 
+          "duration": "04:15",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/05 City Lights ft. Doums.mp3"
+        }, 
+        {
+          "title": "Necronomicon ft. Bohemian Club", 
+          "duration": "04:21",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/06 Necronomicon ft. Bohemian Club.mp3"
+        },
+        {
+          "title": "Teczer", 
+          "duration": "03:42",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/07 Teczer.mp3"
+        },
+        {
+          "title": "Cloud8", 
+          "duration": "02:23",
+          "music": "audio/Nepal-KKSHISENSE8(2018)/08 Cloud8.mp3"
+        }
+
+      ]
+    }, 
+    {
+      
+        "title": "445e Nuit",
+        "image": "https://444nuits.com/assets/img/445.jpg",
+        "production": "Produit par KLM, Stratega, Yung.Coeur",
+        "feats": "Featurings: Doums, 3010",
+        "info": "8 titres – 24min – 75e Session – 2017",
+        "link":"https://444nuits.com/445e-nuit.html",
+        "songs": [
+          {
+            "title": "Niveau 1",
+            "duration": "02:37",
+            "music": "audio/Nepal-445eNuit(2017)/01 Niveau 1.mp3"
+          },
+          {
+            "title": "Maladavexa",
+            "duration": "03:10",
+            "music": "audio/Nepal-445eNuit(2017)/02 Maladavexa.mp3"
+          },
+          {
+            "title": "Love64 (Interlude)", 
+            "duration": "01:40",
+            "music": "audio/Nepal-445eNuit(2017)/03 Love64 (Interlude).mp3"
+          },
+          {
+            "title": "Deadpornstars ft. Doums", 
+            "duration": "03:48",
+            "music": "audio/Nepal-445eNuit(2017)/04 Deadpornstars ft. Doums.mp3"
+          },
+          {
+            "title": "Jugements ft. 3010", 
+            "duration": "04:02",
+            "music": "audio/Nepal-445eNuit(2017)/05 Jugements ft. 3010.mp3"
+          }, 
+          {
+            "title": "Insomnie", 
+            "duration": "03:25",
+            "music": "audio/Nepal-445eNuit(2017)/06 Insomnie.mp3"
+          },
+          {
+            "title": "Kodak White", 
+            "duration": "03:20",
+            "music": "audio/Nepal-445eNuit(2017)/07 Kodak White.mp3"
+          },
+          {
+            "title": "Kamehouse", 
+            "duration": "02:24",
+            "music": "audio/Nepal-445eNuit(2017)/08 Kamehouse.mp3"
+          }
+          
+        ]
+    },
+    {
+      
+      "title": "444 Nuits",
+      "image": "https://444nuits.com/assets/img/444nuits.jpg",
+      "production": "Produit par KLM, Diabi, Fox Hound ",
+      "feats": "Featurings: Doums, Waltmann, Fixpen Sill, M le Maudit",
+      "info": "12 titres – 52min – 75e Session – 2016",
+      "link":"https://444nuits.com/444nuits.html",
+      "songs": [
+        {
+          "title": "Laisse Rouler",
+          "duration": "02:31",
+          "music": "audio/Nepal-444Nuits(2016)/01 Laisse Rouler.mp3"
+        },
+        {
+          "title": "Oxmose",
+          "duration": "03:09",
+          "music": "audio/Nepal-444Nuits(2016)/02 Oxmose.mp3"
+        },
+        {
+          "title": "Rien d'Spécial", 
+          "duration": "04:22",
+          "music": "audio/Nepal-444Nuits(2016)/03 Rien d'Special.mp3"
+        },
+        {
+          "title": "444 Nuits", 
+          "duration": "02:58",
+          "music": "audio/Nepal-444Nuits(2016)/04 444 Nuits.mp3"
+        },
+        {
+          "title": "YOLO", 
+          "duration": "03:28",
+          "music": "audio/Nepal-444Nuits(2016)/05 YOLO.mp3"
+        }, 
+        {
+          "title": "Malik Al Mawt", 
+          "duration": "04:15",
+          "music": "audio/Nepal-444Nuits(2016)/06 Malik Al Mawt.mp3"
+        },
+        {
+          "title": "Faute De Time", 
+          "duration": "03:29",
+          "music": "audio/Nepal-444Nuits(2016)/07 Faute De Time.mp3"
+        },
+        {
+          "title": "Overdab ft. Fixpen Sill & Waltmann", 
+          "duration": "04:23",
+          "music": "audio/Nepal-444Nuits(2016)/08 Overdab ft. Fixpen Sill & Waltmann.mp3"
+        },
+        {
+          "title": "Bizarre City ft. M. Le Maudit", 
+          "duration": "03:28",
+          "music": "audio/Nepal-444Nuits(2016)/09 Bizarre City ft. M. Le Maudit.mp3"
+        },
+        {
+          "title": "Suga Suga ft. Doums", 
+          "duration": "03:44",
+          "music": "audio/Nepal-444Nuits(2016)/10 Suga Suga ft. Doums.mp3"
+        },
+        {
+          "title": "Emoji", 
+          "duration": "03:02",
+          "music": "audio/Nepal-444Nuits(2016)/11 Emoji.mp3"
+        },
+        {
+          "title": "Outro", 
+          "duration": "02:46",
+          "music": "audio/Nepal-444Nuits(2016)/12 Outro.mp3"
+        },
+        {
+          "title": "Gava (Bonus)", 
+          "duration": "04:04",
+          "music": "audio/Nepal-444Nuits(2016)/13 Gava (Bonus).mp3"
+        }
+        
+      ]
+  }, 
+  {
+      
+    "title": "2016-2018",
+    "image": "https://444nuits.com/assets/img/2016-2018.png",
+    "production": "Compilation des singles parus entre 2016 et 2018.",
+    "feats": "",
+    "info": "14 titres – 47min – 2019",
+    "link":"https://idol.lnk.to/2016_2018",
+    "songs": [
+      {
+        "title": "Niveau 1",
+        "duration": "02:37",
+        "music": "https://cdn-preview-5.dzcdn.net/stream/c-598cfcb76ca0b29223a902dc99cef8fe-5.mp3"
+      },
+      {
+        "title": "Rien d'spécial",
+        "duration": "04:22",
+        "music": "https://cdn-preview-5.dzcdn.net/stream/c-53ec6881af95f0ac62a4778f5f87bc33-5.mp3"
+      },
+      {
+        "title": "Jugements", 
+        "duration": "04:02",
+        "music": "https://cdn-preview-e.dzcdn.net/stream/c-e7b655b5eda5fcce078575d828092b3f-5.mp3"
+      },
+      {
+        "title": "Babylone", 
+        "duration": "03:28",
+        "music": "https://cdn-preview-e.dzcdn.net/stream/c-e78f313de6104a80d25bf27dd0100444-5.mp3"
+      },
+      {
+        "title": "150CC", 
+        "duration": "03:33",
+        "music": "https://cdn-preview-a.dzcdn.net/stream/c-a13d58a8192e1f39806a4c03a93c54c1-5.mp3"
+      }, 
+      {
+        "title": "Overdab", 
+        "duration": "04:24",
+        "music": "https://cdn-preview-b.dzcdn.net/stream/c-b0460293b706e5c6580a00f6da3169d4-5.mp3"
+      },
+      {
+        "title": "Deadpornstars", 
+        "duration": "03:48",
+        "music": "https://cdn-preview-4.dzcdn.net/stream/c-44083390532769c063f87ff06e7e9844-5.mp3"
+      },
+      {
+        "title": "Skyclub", 
+        "duration": "03:10",
+        "music": "https://cdn-preview-3.dzcdn.net/stream/c-372b4194cc3f37ec2e5266bec24e05c9-5.mp3"
+      },
+      {
+        "title": "444 nuits", 
+        "duration": "02:58",
+        "music": "https://cdn-preview-4.dzcdn.net/stream/c-4532e7a6e894098a2e1091675e9eef6d-5.mp3"
+      },
+      {
+        "title": "Emoji", 
+        "duration": "03:02",
+        "music": "https://cdn-preview-c.dzcdn.net/stream/c-c6e71ad0bd42d7188230430bb02a917a-5.mp3"
+      },
+      {
+        "title": "Kodak White", 
+        "duration": "03:21",
+        "music": "https://cdn-preview-9.dzcdn.net/stream/c-9e9ac8c2cc3013adf64c4d57720308ba-5.mp3"
+      },
+      {
+        "title": "Cloud 8", 
+        "duration": "02:23",
+        "music": "https://cdn-preview-e.dzcdn.net/stream/c-e0ec04f75746742300eccc1fc017550a-6.mp3"
+      },
+      {
+        "title": "Malik al mawt", 
+        "duration": "04:12",
+        "music": "https://cdn-preview-1.dzcdn.net/stream/c-1f2cbcfe62f916085d82cac95ccc8fba-6.mp3"
+      },
+      {
+        "title": "Suga Suga", 
+        "duration": "03:45",
+        "music": "https://cdn-preview-1.dzcdn.net/stream/c-14a94a02912ff343d48f9db3b4dd7de3-5.mp3"
+      }
+      
+    ]
+}
+
+
+
+  ],
+
+  "singles": [
+    {
+      "Title": "Single",
+      "image": "https://444nuits.com/assets/img/singles.jpg",
+      "songs": [
+        {
+          "title": "Benji",
+          "image": "https://444nuits.com/assets/img/benji.jpg",
+          "production": "Produit par Diabi",
+          "info": "04.06 min - Triple 4 Gear - 2019",
+          "duration": "03:54",
+          "music": "https://cdn-preview-f.dzcdn.net/stream/c-f5324cef885ca84fe362660af8d49605-3.mp3",
+          "link": "https://idol.lnk.to/Benji",
+          "clip": ""
+        },
+        {
+          "title": "Même Vie",
+          "image": "https://444nuits.com/assets/img/memevie.jpg",
+          "production": "Produit par KLM",
+          "info": "02.32 min - Triple 4 Gear - 2019",
+          "duration": "02:32",
+          "music": "https://cdn-preview-3.dzcdn.net/stream/c-35e5a51d56804e2d3d769c3669a95231-3.mp3",
+          "link": "https://idol.lnk.to/Meme_vie",
+          "clip": ""
+        },
+        {
+          "title": "Coach K",
+          "image": "https://444nuits.com/assets/img/coachk.jpg",
+          "production": "Produit par KLM",
+          "info": "02.14 min - Triple 4 Gear - 2019",
+          "duration": "02:14",
+          "music": "https://cdn-preview-0.dzcdn.net/stream/c-09281a3efed1c67700947a79c6f406c0-3.mp3",
+          "link": "https://idol.lnk.to/Coach_K",
+          "clip": ""
+        },
+        {
+          "title": "Cheddar",
+          "image": "https://444nuits.com/assets/img/cheddar.jpg",
+          "production": "Produit par Willy Hog",
+          "info": "02.15 min - Triple 4 Gear - 2019",
+          "duration": "02:13",
+          "music": "https://cdn-preview-7.dzcdn.net/stream/c-7e5c1fae13b404d7b38fa3db9e70bfcc-3.mp3",
+          "link": "https://idol.lnk.to/Cheddar",
+          "clip": ""
+        },
+        {
+          "title": "Dans le fond",
+          "image": "https://444nuits.com/assets/img/dlf.jpg",
+          "production": "Produit par KLM",
+          "info": "03.19 min - Triple 4 Gear - 2019",
+          "duration": "02:27",
+          "music": "https://cdn-preview-c.dzcdn.net/stream/c-cee7cd8c2fd1f5016001beba2c7e4161-3.mp3",
+          "link": "https://idol.lnk.to/Dans_le_fond",
+          "clip": ""
+        }
+      ]
+    }
+  ],
+
+  "illu":[
+
+    {
+      "title": "nepal",
+      "image": "https://i.ytimg.com/vi/NwIxIAztiag/maxresdefault.jpg",
+      
+      "link": ""
+    }, 
+    {
+      "title": "nepal",
+      "image": "https://thesaurap.fr/wp-content/uploads/2020/11/Image-PNG.png",
+      
+      "link": ""
+    }, 
+    {
+      "title": "nepal",
+      "image": "https://res.cloudinary.com/dcyafbpoh/image/upload/b_rgb:040404,o_57/v1595863154/20200112_203907_0000.png",
+      
+      "link": ""
+    }, 
+
+    {
+      "title": "nepal",
+      "image": "https://rapologie.fr/wp-content/uploads/2020/05/nepal-rappeur.jpg",
+      "link": ""
+    },
+
+    {
+      "title": "Illustrations 1",
+      "image": "https://scontent-mrs2-3.cdninstagram.com/v/t51.29350-15/419253929_3572020456446266_6983547838209003627_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MCJ9&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=102&_nc_ohc=aF3bR8MgXswQ7kNvgHIBHDG&gid=36bfc1bbddf240c881bae1349a3ecf5a&edm=AEhyXUkBAAAA&ccb=7-5&ig_cache_key=MzI3OTUzMzg3OTM5MzkwMTAzMw%3D%3D.2-ccb7-5&oh=00_AYBVIOAiPnrxfKeGYKJR-trJLfAz1Qq7mCauGI-jTVji_g&oe=66B2CEC0&_nc_sid=8f1549",
+      
+      "link": "https://www.instagram.com/p/C2DPrIxILFH/?img_index=1"
+    }, 
+
+    {
+      "title": "Sans voir",
+      "image": "https://scontent-mrs2-3.cdninstagram.com/v/t51.29350-15/419253929_3572020456446266_6983547838209003627_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MCJ9&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=102&_nc_ohc=aF3bR8MgXswQ7kNvgHIBHDG&gid=36bfc1bbddf240c881bae1349a3ecf5a&edm=AEhyXUkBAAAA&ccb=7-5&ig_cache_key=MzI3OTUzMzg3OTM5MzkwMTAzMw%3D%3D.2-ccb7-5&oh=00_AYBVIOAiPnrxfKeGYKJR-trJLfAz1Qq7mCauGI-jTVji_g&oe=66B2CEC0&_nc_sid=8f1549",
+      
+      "link": "https://www.instagram.com/p/C2DPrIxILFH/?img_index=1"
+    }, 
+    {
+      "title":"Sans voir 2 part 2", 
+      "image": "https://scontent-mrs2-1.cdninstagram.com/v/t51.29350-15/364934665_247599484769079_3477027364657371367_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi44ODZ4ODg2LnNkci5mMjkzNTAifQ&_nc_ht=scontent-mrs2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=CGQNKfeWgygQ7kNvgGTrvqL&gid=36bfc1bbddf240c881bae1349a3ecf5a&edm=AEhyXUkBAAAA&ccb=7-5&ig_cache_key=MzE2MDY3NjA3NTE4NzU1ODk0MA%3D%3D.2-ccb7-5&oh=00_AYB3clAq4SW9LPUoihhZ3NKE-WGg3_-zIfc7UtE0mXsStA&oe=66B2F05E&_nc_sid=8f1549",
+      
+      "link": "https://www.instagram.com/p/C2DPrIxILFH/?img_index=6"
+    }, 
+    {
+      "title":"Sundance",
+      "image":"https://scontent-mrs2-1.cdninstagram.com/v/t51.29350-15/306913039_6540431962669335_9175106874380617233_n.jpg?stp=dst-jpg_e35_p1080x1080&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MCJ9&_nc_ht=scontent-mrs2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=U9ju_Cvr7qIQ7kNvgH9R64o&gid=9cf4c146e44f4ab09505a985e14ebb32&edm=AFg4Q8wBAAAA&ccb=7-5&ig_cache_key=MjkyNzE4MzU1NjA4Mjk2MDA4Nw%3D%3D.2-ccb7-5&oh=00_AYBfXRFlFatSd85D9wvqREdzUlGg2rPgNf_Mm2cwwbj_bQ&oe=66B30645&_nc_sid=0b30b7",
+      
+      "link": "https://www.instagram.com/p/CifcfDjM05d/?img_index=1"
+    }
+  ]
+
+
+}

@@ -1,0 +1,7 @@
+.bg{
+    width: 1200px;
+    position: fixed;
+    bottom: 0;
+    opacity: 0.5;
+    z-index: -1;
+}

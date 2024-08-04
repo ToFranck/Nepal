@@ -1,0 +1,66 @@
+.bio {
+    padding-top: 300px;
+    
+}
+
+/* .bio h1, p {
+    
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+} */
+
+.bio-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    padding: 20px;
+    margin: 0 auto;
+    width: 1000px;
+    height: 100%;
+}
+
+.bio-left {
+
+    margin-right: 20px;
+}
+
+.bio-right {
+    margin-left: 20px;
+    
+}
+
+.biopart2{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .bio-container {
+        width: 768px;
+    }
+
+    .biopart2{
+        width: 768px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .bio-container {
+        flex-direction: column;
+        width: 80%;
+    }
+
+    .biopart2{
+        width: 80%;
+    }
+
+    .bio-left, .bio-right {
+        margin: 0;
+    }
+    
+}
